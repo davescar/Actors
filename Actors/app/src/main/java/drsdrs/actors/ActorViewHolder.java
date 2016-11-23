@@ -20,9 +20,5 @@ public class ActorViewHolder extends RecyclerView.ViewHolder {
         mName = (TextView) itemView.findViewById(R.id.name);
         mDOB = (TextView) itemView.findViewById(R.id.date_of_birth);
         mOscars = (TextView) itemView.findViewById(R.id.oscars);
-
-
     }
-
-
 }
