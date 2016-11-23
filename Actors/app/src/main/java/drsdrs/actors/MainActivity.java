@@ -29,17 +29,8 @@ public class MainActivity extends AppCompatActivity {
         actors.add(new Actor("Jim", "July", "12"));
         actors.add(new Actor("Jack", "March", "12"));
 
-
-
-
-    }
-}
-
-        ArrayList<Actor> actorsList = new ArrayList<>();
-        actorsList.add(new Actor("Jeff","10/02/1989","12"));
-        actorsList.add(new Actor("Roger","10/20/1988","1"));
-        actorsList.add(new Actor("Jefferina","10/02/1987","13"));
-
-
+        actors.add(new Actor("Jeff","10/02/1989","12"));
+        actors.add(new Actor("Roger","10/20/1988","1"));
+        actors.add(new Actor("Jefferina","10/02/1987","13"));
     }
 }
